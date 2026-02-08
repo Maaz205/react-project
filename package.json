@@ -1,6 +1,7 @@
 {
   "name": "vite-project",
   "private": true,
+  "homepage": "https://your-username.github.io/react-project",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -27,4 +28,3 @@
     "vite": "^7.2.4"
   }
 }
-"homepage": "https://your-username.github.io/react-project"
